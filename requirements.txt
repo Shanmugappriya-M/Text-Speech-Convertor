@@ -1,0 +1,5 @@
+pyttsx3
+SpeechRecognition
+wordcloud
+matplotlib
+pydub
