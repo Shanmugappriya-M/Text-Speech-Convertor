@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # 🎙️ Text & Speech Convertor  
 ### Multi-Feature Voice Assistant Desktop Application  
+=======
+#🎙️ Text & Speech Convertor  
+Multi-Feature Voice Assistant Desktop Application  
+>>>>>>> cfaa96a202b330dd4a7e2537dbf73f8e09941829
 
 Text & Speech Convertor is a Python-based desktop application built using Tkinter that enables users to convert text to speech, speech to text, and audio files to text. It also provides word cloud visualization and real-time word count for enhanced text analysis and interaction.
 
@@ -125,4 +130,9 @@ The application then:
 
     Offline speech recognition support
 
+<<<<<<< HEAD
 ⭐ If you find this project useful, feel free to star the repository!
+=======
+
+⭐ If you find this project useful, feel free to star the repository!
+>>>>>>> cfaa96a202b330dd4a7e2537dbf73f8e09941829
