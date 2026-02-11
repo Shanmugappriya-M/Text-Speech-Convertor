@@ -1,5 +1,5 @@
-🎙️ Text & Speech Convertor  
-Multi-Feature Voice Assistant Desktop Application  
+# 🎙️ Text & Speech Convertor  
+### Multi-Feature Voice Assistant Desktop Application  
 
 Text & Speech Convertor is a Python-based desktop application built using Tkinter that enables users to convert text to speech, speech to text, and audio files to text. It also provides word cloud visualization and real-time word count for enhanced text analysis and interaction.
 
@@ -7,33 +7,33 @@ This project focuses on building an interactive GUI application integrated with 
 
 ---
 
-🚀 Key Features  
+## 🚀 Key Features  
 
-🔹 Text-to-Speech Conversion  
+### 🔹 Text-to-Speech Conversion  
 - Convert typed text into natural-sounding speech  
 - Supports male and female voice options  
 - Adjustable playback speed  
 
-🔹 Speech-to-Text Conversion  
+### 🔹 Speech-to-Text Conversion  
 - Live microphone input  
 - Converts spoken words into text  
 
-🔹 Audio File to Text  
+### 🔹 Audio File to Text  
 - Upload audio files (mp3, wav, flac, m4a)  
 - Automatic conversion of speech to text  
 
-🔹 Text Analysis Tools  
+### 🔹 Text Analysis Tools  
 - Word cloud generation  
 - Real-time word count  
 
-🔹 User-Friendly Desktop Interface  
+### 🔹 User-Friendly Desktop Interface  
 - Built using Tkinter  
 - Simple and intuitive controls  
 
 ---
 
-🧠 Tech Stack  
- 
+## 🧠 Tech Stack  
+
 - Python  
 - pyttsx3 (Text-to-Speech)  
 - SpeechRecognition (Speech-to-Text)  
@@ -44,21 +44,19 @@ This project focuses on building an interactive GUI application integrated with 
 
 ---
 
-📂 Project Structure  
+## 📂 Project Structure  
 
-├── Text-Speech-Convertor/  
-│   ├── text_speech_convertor.py  
-│   ├── requirements.txt  
-│   ├── README.md  
-│   ├── .gitignore  
-│   └── LICENSE  
+```text
+Text-Speech-Convertor/
+├── text_speech_convertor.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
 
----
+⚙️ Installation & Setup
+1️⃣ Clone the repository
 
-⚙️ Installation & Setup  
-
-### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/Shanmugappriya-M/Text-Speech-Convertor.git
 cd Text-Speech-Convertor
 
@@ -126,6 +124,5 @@ The application then:
     Enhanced UI/UX with themes
 
     Offline speech recognition support
-
 
 ⭐ If you find this project useful, feel free to star the repository!
